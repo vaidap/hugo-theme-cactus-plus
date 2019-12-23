@@ -285,6 +285,7 @@ ul>li {
 
 #post-body, p {
     line-height: 1.7;
+    text-align: justify;
 }
 #post-body p > a {
   word-break: break-word;
